@@ -1,2 +1,5 @@
 # APIrecommendation_MOEA
-# Code
+## Code
+The files in this folder implement the extraction of API structure and semantic information and API recommendation based on the multi-objective evolutionary algorithm.
+## Example
+A sample of the data and code in our approach.
